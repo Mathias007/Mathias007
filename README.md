@@ -4,6 +4,14 @@ Hi there! My name is Mateusz. I'm thrilled to have you visiting my GitHub profil
 
 ## About Me
 
+🌟 I work as a ``Fullstack Software Engineer`` focused on web technologies, especially interested in ``MERN`` Stack.
+
+🔭 In my current job, I am responsible for the comprehensive creation, maintenance and development of commercial applications, including: Frontend, Backend, Databases, tests, containerization, system and network configurations, as well as writing technical documentation.
+
+🌱 So far, I have also successfully completed customer orders for websites, web and mobile applications during my freelancing activities.
+
+⚡ In my free time, I develop my own projects, especially the gaming portal ``[eGildia Graczy](https://egildia.pl)``.
+
 I'm passionate about coding, technology and open source. 
 
 ## Get in Touch
@@ -13,19 +21,3 @@ I'm passionate about coding, technology and open source.
 - Portfolio: [mathias.net.pl](https://mathias.net.pl)
 
 Let's collaborate and make amazing things together! 🌟
-
-
-<!--
-**Mathias007/Mathias007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
