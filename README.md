@@ -18,6 +18,6 @@ I'm passionate about coding, technology and open source.
 
 📫 How to reach me:
 - Email: [matstawowski@gmail.com](mailto:matstawowski@gmail.com)
-- Portfolio: [mathias.net.pl](https://mathias.net.pl)
+- Portfolio: [mathias.egildia.pl](https://mathias.egildia.pl)
 
 Let's collaborate and make amazing things together! 🌟
